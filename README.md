@@ -1,2 +1,2 @@
-# Inventory-management-system
+# Inventory-management-system for a supermarket
 A simple inventory management system for a supermarket. The python program lets you add products, view inventory, search for product,  delete products and exit the program.
